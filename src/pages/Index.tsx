@@ -565,7 +565,7 @@ const Index = () => {
             <div className="flex items-center gap-3">
               <img src={logo} alt="Kharcha Tracker" className="w-8 h-8" />
               <span className="text-sm text-muted-foreground">
-                © 2024 Kharcha Tracker. Built with ❤️ for students.
+                © 2024 Kharcha Tracker — Track. Save. Grow.
               </span>
             </div>
             
